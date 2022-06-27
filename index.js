@@ -16,7 +16,7 @@ const searchRoutes = require("./routes/search");
 const profileRoutes = require("./routes/profile");
 
 const req = require("express/lib/request");
-const MONGODB_URI = "mongodb://localhost:27017";
+const MONGODB_URI = "mongodb://localhost:27017/college";
 
 
 const store = new MongoDBStore({uri: MONGODB_URI, collection: 'sessions'})

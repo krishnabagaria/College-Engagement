@@ -20,7 +20,7 @@
     "express-flash-message": "^2.1.0",
     "express-session": "^1.17.2",
     "mongoose": "^6.2.10",
-    "nodemon": "^2.0.16",
+    "nodemon": "^2.0.18",
     "request": "^2.88.2"
   }
 }

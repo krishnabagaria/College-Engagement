@@ -13,6 +13,5 @@ router.get("/content", getAllContent);
 
 router.post("/content", getAllComments);
 
-router.get("/explore",getAllexplore);
 
 module.exports = router;
