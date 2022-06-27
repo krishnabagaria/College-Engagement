@@ -1,0 +1,40 @@
+
+/* homepage */
+.homepage{
+    background-image: url(https://media.wtsp.com/assets/WTSP/images/7bde7239-0c3f-461b-9da2-e245f191ee70/7bde7239-0c3f-461b-9da2-e245f191ee70_1140x641.jpg);
+    height: 110vh;
+    background-repeat: no-repeat;
+    background-size: 250vh;
+    zoom: 85%;
+    /* transform: scale(1.2); */
+    position: relative;
+}
+#homepage-text{
+  
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    color: rgb(26,57,99);
+    
+}
+
+/* Main Box Recent*/
+#main_box {
+    margin: 90px;
+    height: 75vh;
+    border-radius: 10px;
+    align-items: center;
+}
+.card {
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+
+
+  
+  
